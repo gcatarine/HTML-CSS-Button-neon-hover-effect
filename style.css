@@ -1,0 +1,131 @@
+body{
+    background-color: #333 ;
+}
+
+/*Btn Pink*/
+.neon-pink{
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color:#ff3cb4e3;
+    font-family:'Lato';
+    text-decoration: none;
+    transition: 0.4s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    border: 2px solid #ff3cb4e3;
+    border-radius:50px;
+  }
+  .neon-pink:hover{
+    background: #ff3cb4e3;
+    color: #fafaf6;
+    box-shadow: 0 0 10px #ff3cb4e3, 0 0 40px #ff3cb4e3, 0 0 70px #ff3cb4e3;
+  }
+  .neon-pink:active{
+     color:#ff3cb4e3; 
+     background: #fafaf6;
+  }
+  /*Btn Purple*/
+  .neon-purple{
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color:#650d97d7;
+    font-family:'Lato';
+    text-decoration: none;
+    transition: 0.4s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    border: 2px solid #650d97d7;
+    border-radius:50px;
+  }
+  .neon-purple:hover{
+    background: #650d97d7;
+    color: #fafaf6;
+    box-shadow: 0 0 8px #650d97d7, 0 0 35px #650d97d7, 0 0 60px #650d97d7;
+  }
+  .neon-purple:active{
+     color:#650d97d7; 
+     background: #fafaf6;
+  }
+  /*Btn Yellow*/
+  .neon-yellow{
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color:#f9f502;
+    font-family:'Lato';
+    text-decoration: none;
+    transition: 0.4s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    border: 2px solid #f9f502;
+    border-radius:50px;
+  }
+  .neon-yellow:hover{
+    background: #f9f502;
+    color: #fafaf6;
+    box-shadow: 0 0 10px #f9f502, 0 0 40px #f9f502, 0 0 70px #f9f502;
+  }
+  .neon-yellow:active{
+     color:#f9f502; 
+     background: #fafaf6;
+  }
+
+   /*Btn Black*/
+   .neon-black{
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color: #000;
+    font-family:'Lato';
+    text-decoration: none;
+    transition: 0.4s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    border: 2px solid #000;
+    border-radius:50px;
+  }
+  .neon-black:hover{
+    background: #000;
+    color: #fafaf6;
+    box-shadow: 0 0 10px #000, 0 0 40px #000, 0 0 70px #000;
+  }
+  .neon-black:active{
+     color:#000; 
+     background: #fafaf6;
+  }
+
+  /*Btn White*/
+  .neon-white{
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color: #fafaf6;
+    font-family:'Lato';
+    text-decoration: none;
+    transition: 0.4s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    border: 2px solid #fafaf6;
+    border-radius:50px;
+  }
+  .neon-white:hover{
+    background: #fafaf6;
+    color: #000;
+    box-shadow: 0 0 10px #fafaf6, 0 0 40px rgb(49, 193, 250), 0 0 70px rgb(49, 193, 250);
+  }
+  .neon-white:active{
+     color:#fafaf6; 
+     background: #000;
+  }
